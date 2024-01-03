@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I like writing software, building keyboards, and writing software with those keyboards.
-- ⚡ Fun fact: by the way, I use neovim...
+- ⚡ Fun fact: I use neovim, btw...
 
 <!--
 **bncpr/bncpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
